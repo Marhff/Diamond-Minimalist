@@ -4,5 +4,5 @@
  Esse foi um site desenvolvido apenas com HTML e CSS! <br>
  
  
- <a href="https://github.com/Marhff/Diamond-Minimalist.git">Clique aqui ! </a>
+ <a href="https://marhff.github.io/Diamond-Minimalist/index.html">Clique aqui ! </a>
 
