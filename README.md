@@ -6,11 +6,11 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/github/repo-size/marhff/Diamond-Minimalist?color=008F8C" />
-    <img src="https://img.shields.io/github/license/marhff/Diamond-Minimalist?color=008F8C" />
+    <img src="https://img.shields.io/github/repo-size/marhff/Diamond-Minimalist?color=591616" />
+    <img src="https://img.shields.io/github/license/marhff/Diamond-Minimalist?color=591616" />
 </div>
 
-<h3 align="center">You can access the project  <a href="https://marhff.github.io/Diamond-Minimalist/index.html">Clique aqui ! target="_blank">Clicking here</a></h3>
+<h3 align="center">You can access the project  <a href="https://marhff.github.io/Diamond-Minimalist/index.html" target="_blank">Click aqui !</a></h3>
 
 
 
